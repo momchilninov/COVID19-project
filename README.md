@@ -1,17 +1,7 @@
-# COVID19-project
-
-@article{owidcoronavirus,
-    author = {Edouard Mathieu and Hannah Ritchie and Lucas Rodés-Guirao and Cameron Appel and Charlie Giattino and Joe Hasell and Bobbie Macdonald and Saloni Dattani and Diana Beltekian and Esteban Ortiz-Ospina and Max Roser},
-    title = {Coronavirus Pandemic (COVID-19)},
-    journal = {Our World in Data},
-    year = {2020},
-    note = {https://ourworldindata.org/coronavirus}
-}
-
-
 # COVID-19 Data Exploration using SQL
 
 This project involves analyzing COVID-19 data using SQL. Various SQL techniques such as joins, CTEs, temporary tables, window functions, aggregate functions, and creating views are utilized to explore different aspects of the data.
+Download the complete [Our World in Data COVID-19 dataset](https://ourworldindata.org/covid-deaths)
 
 ## Overview of SQL Queries:
 
