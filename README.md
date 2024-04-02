@@ -1,7 +1,7 @@
 # COVID-19 Data Exploration using SQL
 
 This project involves analyzing COVID-19 data using SQL. Various SQL techniques such as joins, CTEs, temporary tables, window functions, aggregate functions, and creating views are utilized to explore different aspects of the data.
-Download the complete [Our World in Data COVID-19 dataset](https://ourworldindata.org/covid-deaths)
+Download the complete [Our World in Data COVID-19 dataset](https://ourworldindata.org/covid-deaths).
 
 ## Overview of SQL Queries:
 
