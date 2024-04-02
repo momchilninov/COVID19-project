@@ -31,17 +31,11 @@ Download the complete [Our World in Data COVID-19 dataset](https://ourworldindat
 
 ## Files:
 
-- **covid_data_analysis.sql**: Contains SQL queries for exploring COVID-19 data.
 - **README.md**: This file, providing an overview of the project and the SQL queries used.
 
 ## Requirements:
 - SQL Server environment.
 - Access to COVID-19 datasets (`CovidDeaths` and `CovidVaccinations` tables).
-
-## How to Use:
-1. Connect to a SQL Server environment.
-2. Execute the SQL queries provided in `covid_data_analysis.sql`.
-3. Review the results and analyze the insights gained from the data.
 
 ## License:
 This project is licensed under the MIT License.
